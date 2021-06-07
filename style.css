@@ -1,0 +1,53 @@
+body {
+background: url("background.jpg");
+}
+header{
+margin-left: 1700px; 
+font-family: Arial;
+}
+.dws-menu *{
+margin: 0;
+padding: 0;
+}
+.dws-menu ul,
+.dws-menu ol{
+list-style: none;
+}
+.dws-menu > ul li a{
+	font-size: 40;
+	color: #White;
+}
+.dws-menu > ul li a{
+	display: block;
+	background: url("background 1.jpg");
+	padding: 15 px 30 px 15 px 40 px;
+	font-size: 30px;
+	color: #White;
+	text-decoration: none;
+	transition all 0.3s ease;
+}	
+.dws-menu li a:hover{
+	background: #454547;
+	color: #ffffff;
+    box-shadow: 1px 5px 10px -5px black;
+	transition all 0.3s ease;
+}
+.dws-menu li ul{
+	position: absolute;
+	min-width: 150px;
+	display: none;
+}
+.dws-menu li > ul li{
+border: 1px solid #c7c8ca;
+}	
+.dws-menu li > ul li a{
+	background: url("background 2.jpg");
+}
+.dws-menu li > ul li ul{
+	position: absolute;
+	left: -160px;
+	top: 0;
+}
+.dws-menu li:hover > ul{
+	display: block;
+}

@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<title>Книжный магазин</title>
+<link rel="stylesheet" href="style.css" type="text/css">
+</head>
+<body bgcolor="white" text="black" link="blue" alink="#0000FF" vlink ="blue">
+<header>
+<nav class="dws-menu">
+<ul>
+<li><a href="#">&nbsp &nbsp &nbsp Меню</a>
+<ul>
+<li><a href="Корзина.html">Корзина</a></li>
+<li><a href="Отзывы.html">Отзывы</a></li>
+</ul>
+</li> 
+</ul>
+</nav>
+</header>
+<h1 align="center">  
+<font color="#0000FF">Книжный магазин им. Г.В. Стешкина </font> &nbsp <A NAME="НАЧ"> &nbsp 
+</h1>
+<hr>
+<h2 align="left">  
+<font color="black">Книжные новинки</font>
+</h2>
+<hr>
+<p style="text-align: left;">
+<img src="1 book.jpg" width="337" height="428" alt= "1 книга" align ="left"></p>
+<font color="black" size="5" face="Times New Roman"> <i><p><b>&nbsp Автор:</b> Марисса Мейер </p>
+<p><b>&nbsp Общий тираж:</b> 10000 </p>
+<p><b>&nbsp Переводчики:</b> Н. Болдырева</p>
+<p><b>&nbsp Серия:</b> Лунные хроники. Звезды над нами</p>
+<p><b>&nbsp Год издания:</b> 2021</p>
+<p><b>&nbsp Страниц:</b> 280</p>
+<p><b>&nbsp Раздел:</b> героическое фэнтези, зарубежное фэнтези </p>
+<p><b>&nbsp Издательство:</b> ACT</p>
+<p><b>&nbsp Язык:</b> полностью русский</p></i>
+<hr>
+<font color="black" size="5" face="Times New Roman"> <i><p>Цена: <b>451 р.</b> &nbsp </A> &nbsp <A HREF="Корзина.html">Купить</A> 
+&nbsp <A HREF="Отзывы.html">Оставить отзыв</A> &nbsp <A HREF="#ТАБ">Вниз↓</A></i></font>
+<hr>
+<p style="text-align: left;">
+<img src="2 book.jpg" width="337" height="428" alt= "2 книга" align ="left"></p>
+<font color="black" size="5" face="Times New Roman"> <i><p><b>&nbsp Автор:</b> Кова Элис </p>
+<p><b>&nbsp Общий тираж:</b> 4000 </p>
+<p><b>&nbsp Переводчики:</b> Смирнова Марина Владимировна</p>
+<p><b>&nbsp Серия:</b> Young Adult. Рожденная стихиями. Падение огня</p>
+<p><b>&nbsp Год издания:</b> 2019</p>
+<p><b>&nbsp Страниц:</b> 480</p>
+<p><b>&nbsp Раздел:</b> Зарубежное фэнтези</p>
+<p><b>&nbsp Издательство:</b> Эксмо</p> </p>
+<p><b>&nbsp Язык:</b> полностью русский</p> </p></i>
+<hr>
+<font color="black" size="5" face="Times New Roman"> <i><p>Цена: <b>502 р.</b>&nbsp <A HREF="#НАЧ"> В начало↑</A> &nbsp <A HREF="Корзина.html">Купить</A> 
+&nbsp <A HREF="Отзывы.html">Оставить отзыв</A> &nbsp <A HREF="#ТАБ">Вниз↓</A></i></font>
+<hr>
+<p style="text-align: left;">
+<img src="3 book.jpg" width="337" height="428" alt= "3 книга" align ="left"></p>
+<font color="black" size="5" face="Times New Roman"> <i><p><b>&nbsp Автор:</b> Сазерленд Туи Т.  </p>
+<p><b>&nbsp Общий тираж:</b> 8000 </p>
+<p><b>&nbsp Переводчики:</b> Адаменко Татьяна Васильевна</p>
+<p><b>&nbsp Серия:</b> Драконья сага</p>
+<p><b>&nbsp Год издания:</b> 2020</p>
+<p><b>&nbsp Страниц:</b> 320</p>
+<p><b>&nbsp Раздел:</b> Фантастика и фэнтези для подростков</p>
+<p><b>&nbsp Издательство:</b> ACT</p> 
+<p><b>&nbsp Язык:</b> полностью русский</p> </p></i>
+<hr>
+<font color="black" size="5" face="Times New Roman"> <i><p>Цена: <b>435 р.</b> &nbsp <A HREF="#НАЧ"> В начало↑</A> &nbsp <A HREF="Корзина.html">Купить</A> 
+&nbsp <A HREF="Отзывы.html">Оставить отзыв</A> &nbsp <A NAME="ТАБ"></i></font>
+<hr>
+<P ALIGN="right">
+<ADDRESS>
+ <A HREF="gogogogy95@gmail.com">G-mail: gogogogy95@gmail.com</A>
+</ADDRESS>
+</P>
+</body>
+</html>
